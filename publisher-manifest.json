@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "27dd9ad95f4b1fe50a4f6516",
+  "owner": "ju79qjwha",
+  "repo": "page-384d4e3a2ff7fa1788ae4d55",
+  "title": "三斤云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "384d4e3a2ff7fa1788ae4d55",
+      "a": "三斤云",
+      "b": "",
+      "entity": "三斤云",
+      "brand": "三斤云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c6f51053490ad4b8221e63702da4f186df0f4682bd200746e7bf9b7dc940c029",
+      "content": {
+        "keyword1": "三斤云",
+        "keyword2": "",
+        "primary_entity": "三斤云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "三斤云提供稳定高效的网络连接与专线加速服务。按需选择，灵活配置，满足多场景流量诉求。",
+          "AI_DESCRIPTION": "三斤云提供稳定高效的网络连接与专线加速服务。按需选择，灵活配置，满足多场景流量诉求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #0b0c10;--panel-bg: #1f2833;--text-main: #c5c6c7;--text-bright: #ffffff;--accent: #66fcf1;--accent-dim: #45a29e;--card-radius: 16px;--transition: all 0.3s ease}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 0 1rem}\n\nmain {max-width: 1200px;margin: 0 auto;padding: 2rem 0}\n\nheader {margin-bottom: 4rem}\n\n.hero-grid {display: grid;grid-template-columns: 1fr;gap: 3rem;align-items: center;min-height: 70vh;padding-top: 2rem}\n\n@media (min-width: 900px) {\n  .hero-grid {grid-template-columns: 1.2fr 0.8fr}\n}\n\n.hero-left h1 {font-size: clamp(2.5rem, 5vw, 4.5rem);color: var(--text-bright);font-weight: 800;letter-spacing: -1px;margin-bottom: 1.5rem}\n\n.hero-left h1 span {color: var(--accent)}\n\n.hero-left p {font-size: 1.25rem;margin-bottom: 2rem;color: var(--text-main);max-width: 600px}\n\n.hero-nav-tags {display: flex;flex-wrap: wrap;gap: 1rem}\n\n.hero-nav-tags a {background: transparent;border: 1px solid var(--accent-dim);color: var(--accent);padding: 0.6rem 1.2rem;border-radius: 30px;text-decoration: none;font-size: 0.9rem;transition: var(--transition)}\n\n.hero-nav-tags a:hover {background: var(--accent);color: var(--bg-color)}\n\n.hero-panel {background-color: var(--panel-bg);border-radius: var(--card-radius);padding: 2.5rem;box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);border-left: 4px solid var(--accent)}\n\n.hero-panel h3 {color: var(--text-bright);font-size: 1.5rem;margin-bottom: 1rem}\n\n.hero-panel ul {list-style: none}\n\n.hero-panel li {padding: 0.75rem 0;border-bottom: 1px solid rgba(255, 255, 255, 0.05);display: flex;justify-content: space-between}\n\n.hero-panel li:last-child {border-bottom: none}\n\nsection {margin: 6rem 0}\n\nh2 {font-size: 2.2rem;color: var(--text-bright);margin-bottom: 3rem;text-align: center;font-weight: 700}\n\n.plans-table-wrapper {overflow-x: auto}\n\n.plans-table {width: 100%;border-collapse: separate;border-spacing: 0;background-color: var(--panel-bg);border-radius: var(--card-radius);overflow: hidden;box-shadow: 0 10px 30px rgba(0,0,0,0.3)}\n\n.plans-table th,\n.plans-table td {padding: 1.5rem;text-align: center;border-bottom: 1px solid rgba(255, 255, 255, 0.05)}\n\n.plans-table th {background-color: rgba(0,0,0,0.2);color: var(--text-bright);font-size: 1.2rem}\n\n.plans-table td:first-child,\n.plans-table th:first-child {text-align: left}\n\n.plans-table tr:last-child td {border-bottom: none}\n\n.price {font-size: 1.5rem;color: var(--accent);font-weight: bold}\n\n.annual {font-size: 0.85rem;color: var(--text-main);margin-top: 0.25rem}\n\n.featured-tag {background: var(--accent);color: var(--bg-color);padding: 0.2rem 0.6rem;border-radius: 4px;font-size: 0.75rem;font-weight: bold;margin-left: 0.5rem;vertical-align: middle}\n\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n\n.feature-card {background-color: var(--panel-bg);border-radius: var(--card-radius);padding: 2.5rem;box-shadow: 0 10px 30px rgba(0,0,0,0.3);transition: var(--transition)}\n\n.feature-card:hover {transform: translateY(-5px);box-shadow: 0 15px 35px rgba(102, 252, 241, 0.1)}\n\n.feature-card h3 {color: var(--text-bright);margin-bottom: 1rem;font-size: 1.3rem}\n\n.faq-container {display: grid;grid-template-columns: 1fr;gap: 2rem}\n\n@media (min-width: 768px) {\n  .faq-container {grid-template-columns: 1fr 1fr}\n}\n\n.faq-item {background-color: var(--panel-bg);border-radius: var(--card-radius);padding: 2rem;box-shadow: 0 10px 30px rgba(0,0,0,0.3)}\n\n.faq-item h3 {color: var(--accent);margin-bottom: 0.75rem;font-size: 1.1rem}\n\nfooter {text-align: center;padding: 4rem 0;border-top: 1px solid rgba(255, 255, 255, 0.05);color: var(--text-main);font-size: 0.9rem}\n</style><main>\n  <header>\n    <div class=\"hero-grid\">\n      <div class=\"hero-left\">\n        <h1><span>三斤云</span><br>新一代网络加速</h1>\n        <p>稳定、高速、安全的网络连接解决方案。专为现代数据交互与流媒体访问设计，提供流畅体验。</p>\n        <div class=\"hero-nav-tags\">\n          <a href=\"#plans\">套餐价格</a>\n          <a href=\"#features\">服务特性</a>\n          <a href=\"#faq\">常见问题</a>\n        </div>\n      </div>\n      <div class=\"hero-panel\">\n        <h3>系统状态</h3>\n        <ul>\n          <li><span>节点在线率</span> <span>99.9%</span></li>\n          <li><span>当前延迟</span> <span>极低</span></li>\n          <li><span>专线支持</span> <span>IPLC / IEPL</span></li>\n          <li><span>协议支持</span> <span>全平台兼容</span></li>\n        </ul>\n      </div>\n    </div>\n  </header>\n\n  <section id=\"plans\">\n    <h2>选择适合您的套餐</h2>\n    <div class=\"plans-table-wrapper\">\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>套餐类型</th>\n            <th>基础版</th>\n            <th>旗舰版 <span class=\"featured-tag\">推荐</span></th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>价格</strong></td>\n            <td>\n              <div class=\"price\">¥15/月</div>\n              <div class=\"annual\">按年付仅需 ¥150/年</div>\n            </td>\n            <td>\n              <div class=\"price\">¥35/月</div>\n              <div class=\"annual\">按年付仅需 ¥350/年</div>\n            </td>\n            <td>\n              <div class=\"price\">¥85/月</div>\n              <div class=\"annual\">按年付仅需 ¥850/年</div>\n            </td>\n          </tr>\n          <tr>\n            <td><strong>每月流量</strong></td>\n            <td>100GB 极速流量</td>\n            <td>300GB 极速流量</td>\n            <td>1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <td><strong>设备在线</strong></td>\n            <td>支持 3 台设备</td>\n            <td>支持 5 台设备</td>\n            <td>支持 20 台设备</td>\n          </tr>\n          <tr>\n            <td><strong>核心权益</strong></td>\n            <td>解锁基础流媒体<br>普通线路节点池</td>\n            <td>全节点原生流媒体解锁<br>IPLC 专线游戏加速优化<br>7x24 优先工单支持</td>\n            <td>VIP 专属高带宽节点<br>支持企业定制路由<br>专属客户经理服务</td>\n          </tr>\n          <tr>\n            <td><strong>操作</strong></td>\n            <td><a href=\"#\">立即订购 →</a></td>\n            <td><a href=\"#\">立即订购 →</a></td>\n            <td><a href=\"#\">立即订购 →</a></td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2>核心优势</h2>\n    <div class=\"features-grid\">\n      <div class=\"feature-card\">\n        <h3>极速专线</h3>\n        <p>采用高质量 IPLC 与 IEPL 专线网络，有效降低延迟，保障高峰期数据传输的稳定性与流畅度。</p>\n      </div>\n      <div class=\"feature-card\">\n        <h3>多端兼容</h3>\n        <p>完美支持主流操作系统与各类客户端，配置简单，一键接入，随时随地享受高速网络服务。</p>\n      </div>\n      <div class=\"feature-card\">\n        <h3>安全隐私</h3>\n        <p>采用先进的加密传输协议，严格保护用户的网络数据与隐私安全，使用更放心。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-container\">\n      <div class=\"faq-item\">\n        <h3>如何开始使用三斤云？</h3>\n        <p>注册账号后，选择适合的套餐并完成订购，即可在用户中心获取订阅链接，导入至支持的客户端即可使用。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持哪些客户端？</h3>\n        <p>我们支持主流的各类通用网络客户端，覆盖 Windows、macOS、iOS、Android 等多个平台。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>套餐流量如何计算？</h3>\n        <p>流量按自然月重置，双向计算。未用完的流量不累计至下个月，订购新套餐或续费会刷新流量额度。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>是否提供技术支持？</h3>\n        <p>我们提供全天候工单支持服务，旗舰版及团队版用户更可享受优先响应与专属客户经理服务。</p>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>© 三斤云 版权所有。保留所有权利。</p>\n  </footer>\n</main>",
+          "hash": "9b7264701767ff93409811303bcfd0ff8e30e48c7b5c9a1e0c65cfd49f4f4906",
+          "seo": {
+            "title": "三斤云 - 高性能网络加速服务",
+            "keywords": "三斤云, 网络加速, IPLC专线, 流量套餐, 节点服务",
+            "description": "三斤云提供稳定高效的网络连接与专线加速服务。按需选择，灵活配置，满足多场景流量诉求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5000",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cyjnj.cn",
+    "host": "p-0c6ef4a9b2.cyjnj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2ebe40641bd3965886472e9d5ec11401acfb26267d65b8c8937475b3b2b0f167",
+    "sitemap.xml": "fb2eccde6717e74fd08bcc93dc404564c1e73c6affd721bf8d67189ce65b2127",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e12884456c3acf363b23896a65bcefca3afd44387cf92e3cb0b8bee143fde453",
+    "robots.txt": "f7e055d55138e4859188dfa38a059f585131988043633acef421256406ed723a",
+    "1e133906700dcb4e8da0813b01d3d2d3.txt": "4bd523d0c448a2f187b59cbe08991bd37f830492d317679268592940e1209802"
+  },
+  "revision": "e8d0ec99e5834312e400edb28709a2a5978fb16a768f698a6ecf4e562963e627"
+}
